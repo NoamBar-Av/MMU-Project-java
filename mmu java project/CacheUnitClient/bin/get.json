@@ -1,0 +1,19 @@
+{
+	"headers": {
+		"action": "GET"
+	},
+	"body": [
+		{
+			"id": 111111,
+			"content": "null"
+		},
+		{
+			"id": 666666,
+			"content": "null"
+		},
+		{
+			"id": 777777,
+			"content": "null"
+		}
+	]
+}
